@@ -1,13 +1,23 @@
 # iOS Take Home Excercise
 
-Using Swift
+Create a car shopping app using Swift
 
-Create an iOS App that let a user find a car from a database of cars, show them the articles that are related to the car they selected if there are any available, and show them the nearest dealership by manufature near them and the direction / address to there. i.e. if they are interested in a honda civic, show them the nearest honda dealership. 
+The app should have atleast these three main functionalities:
+* Finding a car
+  * A user should be able to find the car they are interested in via a car browsing or searching interface
+* Viewing car details
+  * Once a user selects a car, they should be able to view details information for that vehicle, these are the minium requirements:
+    * images
+    * vehicle information
+    * links to articles for this car
+* Directions to dealership
+  * There should be an call to action on the vehicle details page that shows them the nearest dealerships for that car's manufacture near them, and show them the direction to getting there.
+    * Do not worry about small manufactures where the dealerships are very sparse.
 
 # Data Source
 You should be able to source the vehicle make / model data, articles, and dealer by brand via edmund's API: http://developer.edmunds.com/api-documentation/overview/
 
-# Images
+# Vehicle Images Source
 Unforunately there is no free image apis available for cars, but luckily we can use truecar's image urls for our demo needs, here are some sample urls:
 https://a.tcimg.net/v/model_images/v1/2014/gmc/acadia/all/190x97/side
 https://a.tcimg.net/v/model_images/v1/2014/gmc/acadia/all/190x97/f3q
@@ -23,6 +33,3 @@ There should be atleast some high level test coverage of the basic functionaliti
 
 # Bonus points
 For anything that you think would make your demo stand out, i.e. none traditional navigation methods, cool presentation / animation styles
-
-
-
