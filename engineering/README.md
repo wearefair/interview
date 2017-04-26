@@ -21,7 +21,7 @@ Couple of Scenarios how it would play out:
 
 Scenario 1:
 
-Someone creates a line of credit for 1000$ and 35% APR.
+Someone creates a line of credit for $1000 and 35% APR.
 
 They draws $500 on day one so their remaining credit limit is $500 and their balance is $500.
 They keep the money drawn for 30 days.  They should owe $500 * 0.35 / 365 * 30 = 14.38$ worth
