@@ -23,18 +23,18 @@ Scenario 1:
 
 Someone creates a line of credit for 1000$ and 35% APR.
 
-They draws 500$ on day one so their remaining credit limit is 500$ and their balance is 500$.
-They keep the money drawn for 30 days.  They should owe 500$ * 0.35 / 365 * 30 = 14.38$ worth
-of interest on day 30.  Total payoff amount would be 514.38$
+They draws $500 on day one so their remaining credit limit is $500 and their balance is $500.
+They keep the money drawn for 30 days.  They should owe $500 * 0.35 / 365 * 30 = 14.38$ worth
+of interest on day 30.  Total payoff amount would be $514.38
 
 Scenario 2:
 
-Someone creates a line of credit for 1000$ and 35% APR.
+Someone creates a line of credit for $1000 and 35% APR.
 
-They draw 500$ on day one so their remaining credit limit is 500$ and their balance is 500$.
-They pay back 200$ on day 15 and then draws another 100$ on day 25.  Their total owed interest on
+They draw $500 on day one so their remaining credit limit is $500 and their balance is $500.
+They pay back $200 on day 15 and then draws another 100$ on day 25.  Their total owed interest on
 day 30 should be 500 * 0.35 / 365 * 15 + 300 * 0.35 / 365 * 10 + 400 * 0.35 / 365 * 5  which is
-11.99.  Total payment should be 411.99.
+11.99.  Total payment should be $411.99.
 
 ## Tech Requirements
 * Create the application using JSON API endpoints
