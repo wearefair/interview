@@ -42,12 +42,16 @@ day 30 should be 500 * 0.35 / 365 * 15 + 300 * 0.35 / 365 * 10 + 400 * 0.35 / 36
 
 
 
-#Specific requirements
+# Specific requirements
 
-1 Test the scenarios described above and validate that the final numbers are correct.
-1 Test some negative cases where a user tries to break the system
-1 Log any bugs or defects the system has
-1 Suggest improvements to address the found defects
+1. Test the scenarios described above and validate that the final numbers are correct.
+
+1. Test some negative cases where a user tries to break the system
+
+1. Log any bugs or defects the system has
+
+1. Suggest improvements to address the found defects
+
 
 
 
