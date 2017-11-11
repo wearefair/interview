@@ -1,4 +1,4 @@
-# iOS Take Home Excercise
+# Mobile Take Home Excercise
 
 Create a car shopping app using Swift
 
