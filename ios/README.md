@@ -1,6 +1,6 @@
 # Mobile Take Home Excercise
 
-Create a car shopping app using Swift
+Create a car shopping app using Swift for iOS or Java/Kotlin for Android
 
 The app should have atleast these three main functionalities:
 * Finding a car
