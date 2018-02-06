@@ -13,6 +13,7 @@ The app should have the following functionality:
 # Data Source
 You should be able to source rental data from the amadeus API:
 https://sandbox.amadeus.com/
+
 Using the API_KEY - BH0YcvY52j0ee98eMLf9YMoHUjzzqZTi
 
 # Testing
