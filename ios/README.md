@@ -20,4 +20,4 @@ Using the API_KEY - BH0YcvY52j0ee98eMLf9YMoHUjzzqZTi
 There should be at least some high level test coverage of the basic functionalities of the app which demonstrate your ability to test your code
 
 # Bonus points
-For anything that you think would make your demo stand out, i.e. none traditional navigation methods, cool presentation / animation styles
+For anything that you think would make your demo stand out, i.e. non-traditional navigation methods, cool presentation / animation styles
