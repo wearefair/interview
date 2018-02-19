@@ -2,6 +2,10 @@
 
 This code challenge focuses on ETL and reporting tasks. You will extract data from a postgres database and generate reports with said data. Ideally, you will load this data into a reporting database / data warehouse.
 
+## Expected Time Commitment
+
+Please spend no more than 5 hours on this. We don't necessarily expect you to finish the entire assignment, but we do expect you have generated the foundational reports and created a clean data pipeline that you could build upon over time.
+
 ## Source Data
 Your dataset is from Federal Elections Committee campaign contributions data. This data has been extracted from OpenSecrets (https://www.opensecrets.org/) and provided as a Postgres Dump here: https://github.com/Solomon/opensecrets_to_postgres
 
