@@ -14,7 +14,7 @@ The app should have the following functionality:
 You should be able to source rental data from the amadeus API:
 https://sandbox.amadeus.com/
 
-Using the API_KEY - BH0YcvY52j0ee98eMLf9YMoHUjzzqZTi
+Using the key provided in the project email
 
 # Testing
 There should be at least some high level test coverage of the basic functionalities of the app which demonstrate your ability to test your code
