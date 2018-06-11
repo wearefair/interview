@@ -1,6 +1,6 @@
-# React Take Home Excercise
+# React Take Home Exercise
 
-Create a an app to organize vehicles in React
+Create an app to organize vehicles in React
 
 The app should have the following functionality:
 * Car Listing
@@ -18,15 +18,21 @@ The app should have the following functionality:
   * Change the price of vehicle via a slider
 * Changes "saved" in Car Details page should be reflected when going back to the Car Listing page
 
+We suggest using https://github.com/ReactJSResources/react-webpack-babel to help you quickly get started on the exercise.
+There are 2 screenshots of samples of what our listing and detail pages look like.  They are not meant
+to be exactly what we expect these pages to look like, but as a reference to how these pages would look like.
 
 # Data Source
 Stubbed endpoints is available here:
 https://interviewapi3.docs.apiary.io/#reference/0/vehicles/vehicles-index
 
-There are only 2 vehicles detail endpoints stubbed out
+Out of the 10 vehicles returned, here are only 2 vehicles detail endpoints stubbed out.  Those 2 vehicles will be the only ones you'll be able
+to get to Car Details page on.  For the other vehicles, go ahead and do error handling for them.
 
 # Testing
-There should be at least some high level test coverage of the basic functionalities of the app which demonstrate your ability to test your code
+There should be at least some high level unit test coverage of the basic functionalities of the app which demonstrate your ability to test your code.
+React component testing would be a bonus.
 
 # Bonus points
-For anything that you think would make your demo stand out, i.e. non-traditional navigation methods, cool presentation / animation styles
+For anything that you think would make your demo stand out, i.e. non-traditional navigation methods, cool presentation / animation styles.
+As mentioned above, React component testing will be a bonus.
