@@ -3,6 +3,15 @@ Coding challenge or existing code?
 
 The coding challenge is optional if you already have some code that you're proud of and can share with us.
 
+- [Existing code](#existing-code)
+- [Readme](#readme)
+- [How we review](#how-we-review)
+- [Coding Challenge Guidelines](#coding-challenge-guidelines)
+  - [Functional spec](#functional-spec)
+    - [Email Service](#email-service)
+    - [HTTP Rate Limiting Proxy](#http-rate-limiting-proxy)
+  - [Technical spec](#technical-spec)
+
 Existing code
 -------------
 
@@ -62,7 +71,8 @@ Github, Bitbucket...).
 Functional spec
 ---------------
 
-The UX/UI is totally up to you. If you like, get creative and add additional
+Choose **one** of the following projects to implement.
+The UX/UI is totally up to you. If you'd like, get creative and add additional
 features a user might find useful!
 
 ### Email Service
@@ -81,6 +91,15 @@ Example Email Providers:
 
 All listed services are free to try and are pretty painless to sign up for, so
 please register your own test accounts on each (omit your credentials, we will provide our own when we run your project).
+
+
+### HTTP Rate Limiting Proxy
+
+Create a proxy that applies rate limiting to HTTP requests before forwarding to the downstream target.
+Your proxy should allow some level of configuration, for example:
+
+* Max requests for a given period
+* How requests are bucketed (IP based, route + IP, etc)
 
 
 Technical spec
