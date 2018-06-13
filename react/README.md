@@ -4,7 +4,7 @@ Create an react web app to merchandise vehicles
 
 The web app should have the following features:
 * A Car Listing Page
-  * The car listing page should display a list of cars retrevied from the vehicle index API endpoint provided. Atleast the following information should be made available to the user
+  * The car listing page should display a list of cars retrieved from the vehicle index API endpoint provided. At least the following information should be made available to the user
     * Vehicle Make, Model, Trim, and Year
     * Car Image
     * Start Fee and Monthly Fee
@@ -56,8 +56,8 @@ The aspects of your code we will assess include:
 * **Security**: are there any obvious vulnerabilities?
 * **Testing**: how thorough are the automated tests? Will they be difficult to change if the requirements of the application were to change? Are there some unit and some integration tests?
   * We're not looking for full coverage (given time constraint) but just trying to get a feel for your testing skills.
-* **UX**: Is the API intuitive and easy to use?
-* **Technical choices**: do choices of libraries, databases, architecture etc. seem appropriate for the application?
+* **UX**: Is the UI intuitive and easy to use?
+* **Technical choices**: do choices of libraries, data storage / handling, architecture etc. seem appropriate for the application?
 
 Bonus point (those items are optional):
 
