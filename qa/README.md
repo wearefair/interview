@@ -3,6 +3,7 @@
 Create an Test Suite to externally validate the following:
 
 Using a ruby based test framework test against credit-test.herokuapp.com.
+(Its heroku so the app might be sleeping.  Give it a kick and it'll wake up)
 
 The application is meant to work like this:
 
