@@ -29,8 +29,8 @@ Use the two attached screen shots as references to what the vehicle listing and 
 # Data Source
 Stubbed API endpoints are available via apiary here:
 https://interviewapi3.docs.apiary.io/#reference/0/vehicles
-  * For car listing: https://private-f14e4-interviewapi3.apiary-mock.com/vehicles?page={page_number}
-  * For car details: https://private-f14e4-interviewapi3.apiary-mock.com/vehicles/{vehicle_vin}
+  * For car listing: https://private-4e19e-interviewapi3.apiary-mock.com/vehicles?page={page_number}
+  * For car details: https://private-4e19e-interviewapi3.apiary-mock.com/vehicles/{vehicle_vin}
     * Out of the 10 vehicles returned, here are only 2 vehicles detail endpoints stubbed out.  Those 2 vehicles will be the only ones you'll be able to get to Car Details page on. For the other vehicles, go ahead and do error handling for them.
 
 For car image urls that are no longer working, feel free to implement placeholders.
