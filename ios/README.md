@@ -1,4 +1,4 @@
-# Mobile Take Home Excercise
+# Mobile Take Home Exercise
 
 Create a rental shopping app using Swift for iOS or Java/Kotlin for Android
 
