@@ -1,23 +1,29 @@
 # Mobile Take Home Exercise
 
-Create a rental shopping app using Swift for iOS or Java/Kotlin for Android
+Create an app using Swift for iOS or Java/Kotlin for Android.
 
-The app should have the following functionality:
-* Finding a car
-  * Based on an address, pickup date, and drop-off date return a list of rentals.  This list should be sortable by company, distance, and price (ascending and descending order)
-* Upon user selection provide rental details
-* Directions to pickup the rental
-  *  There should be a call to action showing user's the nearest pickup location and directions on how to get there.
-* Make the app look as appealing as possible to use
+This app should serve as a single-screen Yelp! Listing for The Getty Center, in Los Angeles, CA. Use the Yelp! Fusion API (https://www.yelp.com/fusion) to display the following basic information:
+1. Star rating
+2. Total Reviews
+3. Address
+4. Phone
+5. Website
+6. Hours of Operation
+7. Top 3 reviews OR top 3 photos (iOS: using a TableView OR CollectionView, Android: using a ListView OR RecyclerView)
 
-# Data Source
-You should be able to source rental data from the amadeus API:
-https://sandbox.amadeus.com/
+## What we’re looking for:
+* Solid understanding of software development best practices.
+* Thoughtful approach to architecture.
+* Familiarity with native libraries and syntax.
+* Handling of basic error conditions.
+* Basic test coverage.
+* Little or no bugs or crashes.
+* A sense for intuitive and well-organized UI.
 
-Using the key provided in the project email
+## Data Source
+* https://www.yelp.com/fusion (free account required)
+* URL to The Getty Center: https://api.yelp.com/v3/businesses/zRlDhJgcwXEphTUhMaCfyw
 
-# Testing
-There should be at least some high level test coverage of the basic functionalities of the app which demonstrate your ability to test your code
+Feel free to use any 3rd party libraries you with to complete your app. However, do NOT use the Yelp! Client SDKs (like https://github.com/Yelp/yelp-ios). We want to see a direct interface to the Yelp! Fusion APIs.
 
-# Bonus points
-For anything that you think would make your demo stand out, i.e. non-traditional navigation methods, cool presentation / animation styles
+We recognize that putting together a high quality project that demonstrates the full range of your skills takes time. We ask that you try to time limit your effort to 4 hours. You may take as much extra time as you wish to feel good about your work and add any additional features that you would make your project stand out.
