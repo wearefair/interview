@@ -9,7 +9,7 @@ This app should serve as a single-screen Yelp! Listing for The Getty Center, in 
 4. Phone
 5. Website
 6. Hours of Operation
-7. Top 3 reviews OR top 3 photos (iOS: using a TableView OR CollectionView, Android: using a ListView OR RecyclerView)
+7. Top 3 reviews OR top 3 photos displayed on a second screen (iOS: using a TableView OR CollectionView, Android: using a ListView OR RecyclerView)
 
 ## What we’re looking for:
 * Solid understanding of software development best practices.
