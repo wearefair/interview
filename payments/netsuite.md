@@ -1,4 +1,4 @@
-# NetSuite Engineer Take Home Excercise
+# NetSuite Engineer Take Home Exercise
 
 ## Scenario:
  
