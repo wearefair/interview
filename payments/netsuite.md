@@ -15,12 +15,12 @@ We want to parse out Order ID and Subscription ID from the memo field and store 
 ## Test:
 Please read the scenario above and write your solution 
   - Use SuiteScript 2.0 
-  - Only trigger when record is being created by webservice
   - Don't be shy about your design pattern
+  - What happens if User Event on another record type was submitting this record?
 
-### Bonus Point:
+## One extra step
 Everything went well and your script was deployed successfully!
 It turns out that `custbody_ff_order_id` ("Order ID") was a List/Record type field.
-We'd like to be able to click on the "Order ID" and it will take our users to that Order Record!
+We'd like to be able to link the custom record.
   - Order Record has Script ID `customrecord_fair_order`
-  - We store the Order ID in a field which has Script ID `custrecord_fair_order_id`
+  - We store the Order ID in a field which has Script ID `custrecord_fair_order_id` and is unique per Order ID
