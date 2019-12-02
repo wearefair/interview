@@ -21,6 +21,6 @@ Please read the scenario above and write your solution
 ## One extra step
 Everything went well and your script was deployed successfully!
 It turns out that `custbody_ff_order_id` ("Order ID") was a List/Record type field.
-We'd like to be able to link the custom record so we can access it on the page.
+We'd like to be able to link the custom record.
   - Order Record has Script ID `customrecord_fair_order`
   - We store the Order ID in a field which has Script ID `custrecord_fair_order_id` and is unique per Order ID
