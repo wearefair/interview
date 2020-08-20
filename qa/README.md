@@ -5,6 +5,8 @@ Create an Test Suite to externally validate the following:
 Using a ruby based test framework, create test scenarios against credit-test.herokuapp.com.
 (Its heroku so the app might be sleeping.  Give it a kick and it'll wake up)
 
+Note* Our preferred language is Ruby, if that is not something you are comfortable with, writing in your preferred language is okay.
+
 The application is meant to work like this:
 
 A line of credit product.  This is like a credit card except theres no card.
